@@ -17,7 +17,11 @@ The goal is to practice with the basics of Flask: routes and templates.
 ## Notes
 
 - All the routes should use the HTTP GET method (no POST or other kinds of
-requests for now)
+requests for now).
+- Don't be afraid to copy/paste code from index.html to your other template
+    files as you get started.
+- Set the secret number at the top level (outside of any of your routes) so that
+    it stays the same the whole time the app is running.
 
 ## Starter Code
 
