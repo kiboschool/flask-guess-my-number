@@ -1,7 +1,7 @@
 # Guess My Number: Flask
 
 For this mini-project, you'll build a small Flask app that implements the number
-guessing game from your [previous project](https://github.com/kiboschool/guess-my-number).
+guessing game from your [previous project](https://github.com/kibo-programming-1-oct-22/guess-my-number).
 
 The goal is to practice with the basics of Flask: routes and templates.
 
